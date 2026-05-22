@@ -11,13 +11,13 @@ The analysis uncovers valuable insights into booking trends, cancellations, and 
 ## **Power BI Dashboard Snapshots**
 The dashboard provides comprehensive insights across the following pages:
 1. **Overview Page**: Displays key metrics such as total bookings, lead times, and monthly trends.  
-   ![Overview Page](https://github.com/aditya20051004/Hotel_Booking_Analysis/Hotel Reservation Analysis photo.jpg/1.jpg)
+   ![Overview Page](https://github.com/aditya20051004/Hotel_Booking_Analysis/blob/main/Hotel%20Reservation%20Analysis%20photo.jpg%2F1.jpg)
 
 2. **Cancellations Page**: Offers insights into cancellation patterns, special requests, and their impact.  
-   ![Cancellations Page](https://github.com/aditya20051004/Hotel_Booking_Analysis/Hotel Reservation Analysis photo.jpg/2.jpg)
+   ![Cancellations Page](https://github.com/aditya20051004/Hotel_Booking_Analysis/blob/main/Hotel%20Reservation%20Analysis%20photo.jpg%2F2.jpg)
 
 3. **Operational Insights Page**: Highlights guest preferences for room types, meal plans, and parking utilization.  
-   ![Operational Insights Page](https://github.com/aditya20051004/Hotel_Booking_Analysis/Hotel Reservation Analysis photo.jpg/3.jpg)
+   ![Operational Insights Page](https://github.com/aditya20051004/Hotel_Booking_Analysis/blob/main/Hotel%20Reservation%20Analysis%20photo.jpg%2F3.jpg)
 
 <br>
 
